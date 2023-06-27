@@ -5,7 +5,7 @@
 - 🤔 Estou pensando em trabalhar como desenvolvedor FullStack
 
 
-<div style="display: inline_block">
+<div style="display: inline">
   <a href="https://github.com/GabsDsgn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsDsgn&hide=issues,prs&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsDsgn&layout=compact&theme=radical"/>
