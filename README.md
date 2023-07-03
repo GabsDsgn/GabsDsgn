@@ -1,7 +1,7 @@
 ## Oii! Eu sou o Gabs.
 
 - 📸 Hoje eu trabalho com Data Science em uma equipe de Automação e Analytics
-- 🎒 Estudando Front-end com HTML, CSS, JS,TS e Bootstrap
+- 🎒 Estudando Front-end com HTML, CSS, JS,TS, Bootstrap, React, NodeJS e POO
 - 🤔 Estou pensando em trabalhar como desenvolvedor FullStack
 
 
