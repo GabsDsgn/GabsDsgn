@@ -1,7 +1,7 @@
 ## Oii! Eu sou o Gabs.
 
 - 📸 Hoje eu trabalho com Data Science em uma equipe de Automação e Analytics. 
-- 🎒 Estudando Front-end com HTML, CSS, JS,TS, Bootstrap, React, NodeJS e SEO
+- 🎒 Estudando Ciência de dados, Dataviz com Power BI (M e DAX), Data Storytelling, ETL com python. MySQL | DB2SQL | PostGreSQL | SAS
 
 
 <div style="display: inline">
