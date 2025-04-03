@@ -1,6 +1,6 @@
 ## Oii! Eu sou o Gabs.
 
-- 📸 Hoje eu trabalho com Data Science em uma equipe de Automação e Analytics. 
+- 📸 Hoje eu trabalho com Data Science/Analyst na diretoria de Dados da GEAP Autogestão em Saúde. 
 - 🎒 Avançando na Ciência de dados, Dataviz com Power BI (M e DAX), Data Storytelling, ETL com python. MySQL | DB2SQL | PostGreSQL | SQLSERVER | SAS | SPARK | DATABRICKS | 
 
 
